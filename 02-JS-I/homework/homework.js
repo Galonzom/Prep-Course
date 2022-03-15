@@ -230,7 +230,7 @@ function esVocal(letra){
       case 'u':
         return 'Es vocal';
       default:
-        return "Dato incorrecto";
+        return "Dato incorrecto"
   }
 }
 
